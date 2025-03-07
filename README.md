@@ -12,7 +12,6 @@ This repository is a fork of [microG GmsCore](https://github.com/microg/GmsCore)
 
 Goals of this fork:
 - Run next to an existing GMS installation such as [microG GmsCore](https://github.com/microg/GmsCore) or Google Play Services.
-- Usage with the "GmsCore support" patch by ReVanced from [ReVanced Patches](https://github.com/revanced/revanced-patches)
 - Feature parity with upstream
 
 Nongoals of this fork:
